@@ -1,6 +1,6 @@
-## Shortlisty — structures every venue detail from your files, then turns it into a client pitch in minutes
+## Shortlisty — structures every venue detail from your files, then turns it into a salesroom in minutes
 
-Venue intelligence and client proposals for event agencies. Two connected layers on one platform: a searchable venue knowledge base built from the files you already have, and an interactive client pitch generated from it — no PDF attachments, no email back-and-forth.
+Venue intelligence and client proposals for event agencies. Two connected layers on one platform: a searchable venue knowledge base built from the files you already have, and an interactive client salesroom generated from it — no PDF attachments, no email back-and-forth.
 
 ### Layer 1 — Venue Intelligence Platform
 
